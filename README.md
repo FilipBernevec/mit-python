@@ -1,2 +1,2 @@
 # mit-python
-MIT Python Intro Course 
+MIT Python Intro Course YOLO
